@@ -35,7 +35,7 @@ class Beers extends React.Component{
       <div clasName="card mb-3">
       <Link  to={`/beer/newBeer`}>  <img src={newBeer} clasName="card-img-top" alt="beer"/></Link>
         <div clasName="card-body">
-          <h5 clasName="card-title">Card title</h5>
+          <h5 clasName="card-title">New Beer</h5>
           <p clasName="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
           <p clasName="card-text"><small clasName="text-muted">Last updated 3 mins ago</small></p>
         </div>
